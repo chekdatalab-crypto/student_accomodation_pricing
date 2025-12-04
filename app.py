@@ -265,7 +265,7 @@ with st.form("rental_prediction_form", clear_on_submit=False):
         amenity_inputs['NRLA'] = s3.checkbox("NRLA Registered", value=False)
 
     st.markdown("")
-    submitted = st.form_submit_button("🔍 Predict Monthly Rent")
+    submitted = st.form_submit_button("🔍 Predict Weekly Rent")
 
 # Prediction logic
 if submitted:
