@@ -145,7 +145,7 @@ def engineer_features(raw_input: Dict, feature_cols: list, uni_map: dict, statio
 # ---------------------------
 # Sidebar navigation
 # ---------------------------
-st.sidebar.image("rr.png", width=120)
+st.sidebar.image("Victor.jpg", width=120)
 st.sidebar.markdown("## 📊 Navigation")
 page = st.sidebar.radio("", options=["Prediction", "Info"])
 
