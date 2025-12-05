@@ -190,7 +190,7 @@ if page == "Info":
 
     st.markdown("---")
     st.subheader("Team / Contact")
-    st.write("* Student: [Your Name/ID]  \n* Supervisor: [Supervisor Name]  \n* Sponsor: PTDF (example)")
+    st.write("* Student: Martin Victor Nchekwube/2238286  \n* Supervisor: David Corsar  \n*")
 
     st.markdown("</div>", unsafe_allow_html=True)
     st.stop()
